@@ -13,7 +13,7 @@
 I'm Daniel, an 18-year-old computer science student currently training as an application developer. I'm passionate about technology and fascinated by web development, where I enjoy creating modern, interactive, and user-friendly websites.  
 I love learning new technologies, improving my programming skills, and building projects that help me grow as a developer. My goal is to continue expanding my knowledge and create applications that are both functional and visually appealing.
 
-🔭 &nbsp;I'm currently working on **On my Portfolio**
+🔭 &nbsp;I'm currently working on **my Portfolio**
 
 ### 🛠️ Tech Stack
 
